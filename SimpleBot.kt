@@ -43,7 +43,7 @@ fun count() {
 }
 
 fun test() {
-    println("Let's test your programming knowledge.")
+    println("Let's test your memory.")
     println("what did I say My name was?")
     println("1.John")
     println("2.Aid")
@@ -55,6 +55,4 @@ fun test() {
 
 }
 
-fun end() {
-    println("Congratulations, have a nice day!") 
-}
+fun end() = println("Congratulations, have a nice day!")
